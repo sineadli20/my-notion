@@ -35,6 +35,6 @@ Uses LocalStorage. Four different "stores":
   - names
  
  - journal store: date ->
-  - title
-  - entry
+    - title
+    - entry
   
