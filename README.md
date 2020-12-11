@@ -1,6 +1,8 @@
 # my-notion
 
-My independent implementation of my three most used page templates on Notion; like on a minimalist scale. Built to best accomodate my preferences for Notion.
+Made by Shay Li.
+
+My independent implementation of my three most used page templates on Notion; like on a minimalist scale. Built to best accomodate my preferences for Notion. 
 
 # Page types
 
@@ -18,7 +20,7 @@ Edit & delete habits, + switch em on upon completion. Re-order the habits too, a
 
 Very simple: title & textarea.
 
-# DATA
+# Data management
 
 Uses LocalStorage. Four different "stores":
 - calendar store
