@@ -8,7 +8,7 @@ All three templates are contained within a calendar.
 
 - Todo
 
-Timeblocking/boxing. Uses Gridstack. Drag and resize blocks with a task + a checkbox over timeslots (24 hours), and edit the blocks in a popover. Uses a Richtext editor to allow for checkboxes. You can import events from Google calendar.
+Timeblocking/boxing. Uses Gridstack. Drag and resize blocks with a task + a checkbox over timeslots (24 hours), and edit the blocks in a popover. Uses a Richtext editor to allow for checkboxes in the notes. You can import events from Google calendar.
 
 - Habits
 
